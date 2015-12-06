@@ -1,10 +1,10 @@
 /*************************************************************************
-* File Name          : wendyjan_2015-12-04_Hand_Control
+* File Name          : wendyjan_gesture-control_2015-12-05_improved.ino
 * Author             : Wendy Jansson
 * Credit to          : Jasen (Makeblock programmer) for sample code 
 *                      to use Makeblock.h
 * Version            : V1.0.0
-* Date               : 2015-12-04
+* Date               : 2015-12-05
 * Description        : Allows a human to control the robot every few feet by swiping:
 *                       -> Stand behind robot.
 *                       -> Make sure your hand travels in front of the ultrasonic sensor, which looks like his eyes.
